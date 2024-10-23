@@ -1,6 +1,6 @@
 <h1 align="center">hello there :wave:</h1>
 
-<p align="center">I'm Ankit, a developer with passion for FOSS. I'm mainly interested in <strong>web development</strong> and <strong>game development</strong>.</p>
+<p align="center">I'm Ankit, a developer with passion for FOSS. I'm mainly interested in <strong>web </strong> and <strong>game development</strong>.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=black"/>
